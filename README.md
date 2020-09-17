@@ -1,5 +1,5 @@
-## Pyspark projects performed as Assignments during Scalable Machine Learning Course
-at the University of Sheffield:
+## Pyspark projects
+Performed as Assignments during Scalable Machine Learning Course at the University of Sheffield:
 
 - movie recommendation
 - analysis of Nasa log data
